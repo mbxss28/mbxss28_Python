@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+gprofiler
+
+#in the case of Gprofiler I used "conda install bioconda::gprofiler-official" to install Gprofiler into the environment 
